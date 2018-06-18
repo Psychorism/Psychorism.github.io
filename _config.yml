@@ -5,9 +5,9 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Psycho-<br>rism
+title:            Psychorism
 tagline:          'A Jekyll theme'
-description:      'Psychologists + Algorithm<br> <a href="https://snu.ac.kr" target="_blank">@SNU</a>'
+description:      'Psychologists + Algorithm<br> An Archive of Contributions made by Psychologists <a href="https://snu.ac.kr" target="_blank">@SNU</a>'
 url:              https://github.com/Psychorism/
 baseurl:          /
 
