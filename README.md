@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hyde
 
 Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
@@ -116,3 +117,20 @@ Hyde has two branches, but only one is used for active development.
 Open sourced under the [MIT license](LICENSE.md).
 
 <3
+=======
+# light material jekyll theme
+a lightweight jekyll blogging theme, perfect for your personal page.
+
+# [DEMO](http://himsel.me/material-theme)
+# [Who is using this theme?](http://himsel.me/06-15-2017-Jekyll-themes.html)
+
+### Use this Jekyll theme
+[Read the Article about it!](http://himsel.me/material-theme/2016/09/19/use-my-jekyll-theme.html)  
+If you are too busy to read these few lines, then please do this:  
+- fork repo  
+- change the site's url and other values in `_config.yml`  
+
+#### License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+This theme is distributed under the MIT License.
+>>>>>>> f143017def40be1cc45470092a5f2f094767e874
