@@ -13,7 +13,7 @@ Psychorism is a project group of psychology majors in Seoul National University.
 
 ### Planned Projects
 
-* **Game Theory** : PsyGame 2019
+* **Game Theory** : PsyGame 2018
 
 ### Archive
 
