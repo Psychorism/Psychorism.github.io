@@ -1,4 +1,4 @@
-# Psychorism Page
+# Psychorism
 
 An introductory page of Psychorism, a study group of psychology majors in @SNU.
 
