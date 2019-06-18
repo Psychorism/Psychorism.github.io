@@ -7,17 +7,21 @@ Psychorism is a project group of psychology majors in Seoul National University.
 
 ### Current Projects
 
-* **Regression Analysis** : PsyReg2019
-
-* **Archiving Mistakes** : PsyMistakes
+* **Stochastic Processes** : [PsyStoch2019](https://github.com/Psychorism/psyStoch)
 
 ### Past Projects
 
-* **Reinforcement Learning** : PsyRL 2018
+* **Reinforcement Learning** : [PsyRL2018](https://github.com/Psychorism/psyRL2018)
+
+* **Regression Analysis** : [PsyReg2019](https://github.com/Psychorism/psyReg2019)
 
 ### Planned Projects
 
 * **Game Theory** : PsyGame 2019
+
+### Failed Projects (...)
+
+* **Archiving Mistakes** : PsyMistakes
 
 ### Archive
 
